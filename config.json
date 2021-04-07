@@ -1,6 +1,6 @@
 {
 	"ip":"poliwak.aternos.me",
 	"port": "25565",
-	"name": "mandzio",
-	"auto-night-skip":"true"
+	"name": "Notch",
+	"auto-night-skip":"false"
 }
